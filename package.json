@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   
-  "homepage":  "https://al-names.github.io/react-journal/",
+  "homepage":  "https://al-names.github.io/react-journal/new",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "jquery": "^3.3.1",
